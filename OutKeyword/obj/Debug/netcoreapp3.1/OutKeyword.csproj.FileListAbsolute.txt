@@ -1,0 +1,14 @@
+C:\Users\Satya Pulamanthula\source\repos\Practice\OutKeyword\obj\Debug\netcoreapp3.1\OutKeyword.csproj.AssemblyReference.cache
+C:\Users\Satya Pulamanthula\source\repos\Practice\OutKeyword\obj\Debug\netcoreapp3.1\OutKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satya Pulamanthula\source\repos\Practice\OutKeyword\obj\Debug\netcoreapp3.1\OutKeyword.AssemblyInfoInputs.cache
+C:\Users\Satya Pulamanthula\source\repos\Practice\OutKeyword\obj\Debug\netcoreapp3.1\OutKeyword.AssemblyInfo.cs
+C:\Users\Satya Pulamanthula\source\repos\Practice\OutKeyword\obj\Debug\netcoreapp3.1\OutKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Satya Pulamanthula\source\repos\Practice\OutKeyword\bin\Debug\netcoreapp3.1\OutKeyword.exe
+C:\Users\Satya Pulamanthula\source\repos\Practice\OutKeyword\bin\Debug\netcoreapp3.1\OutKeyword.deps.json
+C:\Users\Satya Pulamanthula\source\repos\Practice\OutKeyword\bin\Debug\netcoreapp3.1\OutKeyword.runtimeconfig.json
+C:\Users\Satya Pulamanthula\source\repos\Practice\OutKeyword\bin\Debug\netcoreapp3.1\OutKeyword.runtimeconfig.dev.json
+C:\Users\Satya Pulamanthula\source\repos\Practice\OutKeyword\bin\Debug\netcoreapp3.1\OutKeyword.dll
+C:\Users\Satya Pulamanthula\source\repos\Practice\OutKeyword\bin\Debug\netcoreapp3.1\OutKeyword.pdb
+C:\Users\Satya Pulamanthula\source\repos\Practice\OutKeyword\obj\Debug\netcoreapp3.1\OutKeyword.dll
+C:\Users\Satya Pulamanthula\source\repos\Practice\OutKeyword\obj\Debug\netcoreapp3.1\OutKeyword.pdb
+C:\Users\Satya Pulamanthula\source\repos\Practice\OutKeyword\obj\Debug\netcoreapp3.1\OutKeyword.genruntimeconfig.cache
